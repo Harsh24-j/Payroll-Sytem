@@ -1,4 +1,4 @@
-Employee Payroll Management System:
+Payroll System:
 
 This is a Java-based Employee Payroll System designed to manage employee payroll details, salary calculations, and records. It provides a simple interface to add employees, compute salaries, and display stored employee details.
 
